@@ -109,7 +109,6 @@ data class BillData(
 data class OrderedProductResponse(
 
     val _id: String,
-    val orderid: String,
 
     val phoneno: String,
 

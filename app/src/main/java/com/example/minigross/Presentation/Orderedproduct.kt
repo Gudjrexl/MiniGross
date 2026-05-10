@@ -287,18 +287,6 @@ fun orderedproduct(
                                     FontWeight.Bold
                             )
                         }
-                        Spacer(
-                            modifier = Modifier.height(6.dp)
-                        )
-
-                        Text(
-                            text = "Order ID : ${order.orderid}",
-
-                            fontWeight = FontWeight.SemiBold,
-
-                            color = Color.Black
-                        )
-
 
 
                         Spacer(
